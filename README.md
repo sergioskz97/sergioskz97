@@ -7,7 +7,7 @@
 ### Connect with me:
 
 <p align="center">
-    <a><img src="https://img.shields.io/badge/-Sergio%20Rodr%C3%ADguez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-manuel-rodr%C3%ADguez-vega-575baa1b7/"></a>
+    <a href="https://www.linkedin.com/in/sergio-manuel-rodr%C3%ADguez-vega-575baa1b7/"><img src="https://img.shields.io/badge/-Sergio%20Rodr%C3%ADguez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-manuel-rodr%C3%ADguez-vega-575baa1b7/"></a>
 </p>
 
 <!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
