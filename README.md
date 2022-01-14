@@ -4,7 +4,7 @@
     <a href="https://github.com/sergioskz97"><img src="https://github-readme-stats.vercel.app/api?username=sergioskz97&hide_border=true&show_icons=true" alt="sergioskz97's github stats"></a>
 </p>
 
-<h4 align="center">Contact me</h4>
+<h4 align="center"><strong>Contact me</strong></h4>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/sergio-manuel-rodr%C3%ADguez-vega-575baa1b7/"><img src="https://img.shields.io/badge/-Sergio%20Rodr%C3%ADguez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergio-manuel-rodr%C3%ADguez-vega-575baa1b7/"></a>
