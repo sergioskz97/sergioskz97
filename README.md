@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergioskz97&show_icons=true)](https://github.com/sergioskz97)
+<p align="center">
+    [![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergioskz97&show_icons=true)](https://github.com/sergioskz97)
+</p>
 
 ### Connect with me:
 
