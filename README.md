@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-    [![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergioskz97&show_icons=true)](https://github.com/sergioskz97)
+    <a href="https://github.com/sergioskz97"><img src="https://github-readme-stats.vercel.app/api?username=sergioskz97&hide_border=true&show_icons=true" alt="sergioskz97's github stats"></a>
 </p>
 
 ### Connect with me:
