@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergioskz97)](https://github.com/sergioskz97/github-readme-stats)
+[![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergioskz97&show_icons=true)](https://github.com/sergioskz97)
 
 ### Connect with me:
 
